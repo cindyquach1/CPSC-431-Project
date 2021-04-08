@@ -55,3 +55,17 @@ a{
     float: left;
     font-size: 12px;
 }
+
+.bottom {
+  text-align: left;
+  margin: 50px;
+}
+
+.slots {
+  
+}
+
+#logout {
+  float: right;
+  background-color: red;
+}
